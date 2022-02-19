@@ -53,3 +53,8 @@ optional arguments:
   -h, --help         show this help message and exit
   -m MAP, --map MAP  set the path to the file containing the map. Default: maps/map.txt.
 ```
+
+
+## More info
+
+For more information refer to section *3.2 State Representation* and *3.4 Q-Learning*  in the [paper](Sokoban_Paper.pdf).
